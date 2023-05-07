@@ -31,7 +31,7 @@
     "@babel/preset-env": "^7.5.5",
     "autoprefixer": "^9.6.1",
     "babelify": "^10.0.0",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.29.1",
     "browserify": "^16.3.0",
     "del": "^5.0.0",
     "emitty": "^1.4.0",
